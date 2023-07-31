@@ -33,3 +33,12 @@ However to ensure you do not have to manually run the script each time dwm is la
 ### Thanks
 
 Thanks to @xiaq for feedback on the module loader / network module.
+
+## Contributing
+
+Pull requests are welcome.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
